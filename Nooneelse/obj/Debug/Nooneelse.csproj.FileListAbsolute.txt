@@ -1,0 +1,32 @@
+C:\Users\minil\source\repos\Nooneelse\Nooneelse\bin\Debug\Nooneelse.exe.config
+C:\Users\minil\source\repos\Nooneelse\Nooneelse\bin\Debug\Nooneelse.exe
+C:\Users\minil\source\repos\Nooneelse\Nooneelse\bin\Debug\Nooneelse.pdb
+C:\Users\minil\source\repos\Nooneelse\Nooneelse\obj\Debug\Nooneelse.csproj.AssemblyReference.cache
+C:\Users\minil\source\repos\Nooneelse\Nooneelse\obj\Debug\Nooneelse.csproj.SuggestedBindingRedirects.cache
+C:\Users\minil\source\repos\Nooneelse\Nooneelse\obj\Debug\MainWindow.g.cs
+C:\Users\minil\source\repos\Nooneelse\Nooneelse\obj\Debug\App.g.cs
+C:\Users\minil\source\repos\Nooneelse\Nooneelse\obj\Debug\Nooneelse_MarkupCompile.cache
+C:\Users\minil\source\repos\Nooneelse\Nooneelse\obj\Debug\Nooneelse_MarkupCompile.lref
+C:\Users\minil\source\repos\Nooneelse\Nooneelse\obj\Debug\MainWindow.baml
+C:\Users\minil\source\repos\Nooneelse\Nooneelse\obj\Debug\Nooneelse.g.resources
+C:\Users\minil\source\repos\Nooneelse\Nooneelse\obj\Debug\Nooneelse.Properties.Resources.resources
+C:\Users\minil\source\repos\Nooneelse\Nooneelse\obj\Debug\Nooneelse.csproj.GenerateResource.cache
+C:\Users\minil\source\repos\Nooneelse\Nooneelse\obj\Debug\Nooneelse.csproj.CoreCompileInputs.cache
+C:\Users\minil\source\repos\Nooneelse\Nooneelse\obj\Debug\Nooneelse.exe
+C:\Users\minil\source\repos\Nooneelse\Nooneelse\obj\Debug\Nooneelse.pdb
+C:\Users\yahry\OneDrive\Рабочий стол\noe (2) (2)\Nooneelse\bin\Debug\Nooneelse.exe.config
+C:\Users\yahry\OneDrive\Рабочий стол\noe (2) (2)\Nooneelse\bin\Debug\Nooneelse.exe
+C:\Users\yahry\OneDrive\Рабочий стол\noe (2) (2)\Nooneelse\bin\Debug\Nooneelse.pdb
+C:\Users\yahry\OneDrive\Рабочий стол\noe (2) (2)\Nooneelse\obj\Debug\Nooneelse.csproj.AssemblyReference.cache
+C:\Users\yahry\OneDrive\Рабочий стол\noe (2) (2)\Nooneelse\obj\Debug\Nooneelse.csproj.SuggestedBindingRedirects.cache
+C:\Users\yahry\OneDrive\Рабочий стол\noe (2) (2)\Nooneelse\obj\Debug\MainWindow.g.cs
+C:\Users\yahry\OneDrive\Рабочий стол\noe (2) (2)\Nooneelse\obj\Debug\App.g.cs
+C:\Users\yahry\OneDrive\Рабочий стол\noe (2) (2)\Nooneelse\obj\Debug\Nooneelse_MarkupCompile.cache
+C:\Users\yahry\OneDrive\Рабочий стол\noe (2) (2)\Nooneelse\obj\Debug\Nooneelse_MarkupCompile.lref
+C:\Users\yahry\OneDrive\Рабочий стол\noe (2) (2)\Nooneelse\obj\Debug\MainWindow.baml
+C:\Users\yahry\OneDrive\Рабочий стол\noe (2) (2)\Nooneelse\obj\Debug\Nooneelse.g.resources
+C:\Users\yahry\OneDrive\Рабочий стол\noe (2) (2)\Nooneelse\obj\Debug\Nooneelse.Properties.Resources.resources
+C:\Users\yahry\OneDrive\Рабочий стол\noe (2) (2)\Nooneelse\obj\Debug\Nooneelse.csproj.GenerateResource.cache
+C:\Users\yahry\OneDrive\Рабочий стол\noe (2) (2)\Nooneelse\obj\Debug\Nooneelse.csproj.CoreCompileInputs.cache
+C:\Users\yahry\OneDrive\Рабочий стол\noe (2) (2)\Nooneelse\obj\Debug\Nooneelse.exe
+C:\Users\yahry\OneDrive\Рабочий стол\noe (2) (2)\Nooneelse\obj\Debug\Nooneelse.pdb

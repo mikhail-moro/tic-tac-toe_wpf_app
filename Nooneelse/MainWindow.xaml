@@ -1,0 +1,26 @@
+﻿<Window x:Class="Nooneelse.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Nooneelse"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="hole">
+        <Canvas x:Name="mainn" Height="NaN" Margin="133,0,133,0" Width="NaN">
+            <Button x:Name="first" Height="140" Width="174" BorderBrush="Black" Background="White" Click="Button_Click"/>
+            <Button x:Name="second" Content="" Height="140" Width="174" HorizontalAlignment="Left" VerticalAlignment="Center" Canvas.Left="174" Background="White" BorderBrush="Black" Click="Button_Click"/>
+            <Button x:Name="third" Content="" Height="140" Width="174" HorizontalAlignment="Left" VerticalAlignment="Center" Canvas.Left="348" BorderBrush="Black" Background="White" Click="Button_Click"/>
+            <Button x:Name="fourth" Height="140" Width="174" HorizontalAlignment="Left" Canvas.Top="140" VerticalAlignment="Top" BorderBrush="Black" Background="White" Click="Button_Click"/>
+            <Button x:Name="fiveth" Height="140" Width="174" HorizontalAlignment="Left" Canvas.Left="174" Canvas.Top="140" VerticalAlignment="Top" BorderBrush="Black" Background="White" Click="Button_Click"/>
+            <Button x:Name="sixth" Content="" Height="140" Width="174" HorizontalAlignment="Left" Canvas.Left="348" Canvas.Top="140" VerticalAlignment="Top" BorderBrush="Black" Background="White" Click="Button_Click"/>
+            <Button x:Name="seventh" Height="140" Width="174" HorizontalAlignment="Left" Canvas.Top="279" VerticalAlignment="Top" BorderBrush="Black" Background="White" Click="Button_Click"/>
+            <Button x:Name="eighth" Height="140" Width="174" HorizontalAlignment="Left" Canvas.Left="174" Canvas.Top="279" VerticalAlignment="Center" BorderBrush="Black" Background="White" Click="Button_Click"/>
+            <Button x:Name="nineth" Content="" Height="140" Width="174" HorizontalAlignment="Center" Canvas.Left="348" Canvas.Top="279" VerticalAlignment="Top" BorderBrush="Black" Background="White" Click="Button_Click"/>
+        </Canvas>
+        <Grid x:Name="Start" Background="White">
+            <Button x:Name="started" Content="Старт" HorizontalAlignment="Center" Margin="0,301,0,0" VerticalAlignment="Top" Click="started_Click_1"/>
+        </Grid>
+
+    </Grid>
+</Window>
